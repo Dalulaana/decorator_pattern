@@ -1,4 +1,4 @@
-public class PresentDecorator implements iFlowers
+public abstract class PresentDecorator implements iFlowers
 {
     iFlowers iflowers;
 
